@@ -1,0 +1,268 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration and appeale to all the freeborne people of this kingdome in generall and to all the truly noble, pyous and well affected patriots and people of God, within the cities of London and Westminster in particular, humbly craving their assistance and furtherance of this just request unto the high court of Parliament. Made from all the brethren the poore afflicted and oppressed prisoners (imprisoned for debt) within the severall Gaoles. (Being the soule destroying houses, and dens of cruelty, injustice, tyrannie and oppression) within this kingdome of England.</title>
+            <author>Freize, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84917</idno>
+            <idno type="STC">Wing F2197bA</idno>
+            <idno type="STC">Thomason 669.f.10[40]</idno>
+            <idno type="STC">ESTC R210415</idno>
+            <idno type="EEBO-CITATION">99869218</idno>
+            <idno type="PROQUEST">99869218</idno>
+            <idno type="VID">162580</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84917)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162580)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f10[40])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration and appeale to all the freeborne people of this kingdome in generall and to all the truly noble, pyous and well affected patriots and people of God, within the cities of London and Westminster in particular, humbly craving their assistance and furtherance of this just request unto the high court of Parliament. Made from all the brethren the poore afflicted and oppressed prisoners (imprisoned for debt) within the severall Gaoles. (Being the soule destroying houses, and dens of cruelty, injustice, tyrannie and oppression) within this kingdome of England.</title>
+                  <author>Freize, James.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By James Freize.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "November 1645".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Debt, Imprisonment for --  England --  Early works to 1800.</term>
+               <term>Poor --  Civil rights --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:162580:1" rendition="simple:additions"/>
+            <head>A DECLARATION AND APPEALE TO ALL THE FREEBORNE PEOPLE OF THIS KINGDOME IN GENERALL.</head>
+            <head type="sub">And to all the truly Noble, Pyous and well affected Patriots and people of God, within the Cities of London and Weſtminſter in particular, Humbly craving their aſſiſtance and furtherance of this
+juſt requeſt unto the high Court of Parliament. Made from all the brethren the poore afflicted and oppreſſed Priſoners (impriſoned for debt,) within the ſeverall Goaſtes. (Being
+the Soule deſtroying Houſes, and Dens of Cruelty, Injuſtice, Tyrannie and Oppreſſion) within this Kingdome of England.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N all humble manner ſhewing unto you, That from the firſt ſitting of this Parliament, (the only hopes left unto us next under God) for the ſuppreſſing of all Injuſtice, Tyrannie and
+Oppreſſion, and for the advancement and opening the doore of time Juſtice, Iudgement, and mercy to all, in a free currant without reſpect of perſons, according to the Law of
+God, the fundamentall law of this Land, and the juſt libertie of the Subject, We have expected our juſt libertie and inlargement from theſe ſeverall Dungions of miſerie, yet we
+your poore oppreſſed Brethren have Still unto this preſent time been inſlaved in our perſons, bereift of our Eſtates, Credites, and Callings, and buried alive in the ſeverall Priſon-Houſe
+within this Kingdome, and Citie of London, And there (by Iaylors) tyrannically oppreſſed and tormented, contrary to the law of God, the lawes of all other nations, and
+(as is conceived) againſt the contents of <hi>Magna Charta</hi> as appeareth by Regiſter folio 77. <hi>de Hommo Replegiando,</hi> folio 66. alſo the 3. of <hi>Edward</hi> the 1. chap 15, and the 25. of <hi>Ed.</hi>
+the 3. chap 4, where it appeareth that the body of no free borne Deniſon of England is to be impriſoned for Debt. <hi>Nice per Legem terrae</hi> the 9. of <hi>Henry</hi> the 3. chap, 29. and the 52. of <hi>Henry</hi> the
+the 3. chap, the 5. and the 14. of <hi>Edward</hi> the 3. chap. 1. and in the Abridgement of Statutes, folio 65. and 6. and by the Petition of Right in the 3. of <hi>Charolie.</hi> And all Statutes made to the contra<g ref="char:EOLhyphen"/>ry
+hereof (in point of the Subjects liberty) are abſolutely void by the Statute of the 42. of <hi>Edward</hi> the 3. chap. 1.</p>
+            <p>The impriſonment of men for debt, being juſtly conceived to be contrary to the late Petition of Right, Ratified by His Maieſtie in Anno 1640. and contrary to the ſeverall Oathes, Vowes,
+Proteſtations, and Nationall Covenant, and the juſt and undeniable Priveledge and liberty of the Subject in generall, being alſo ratified and confirmed, above 30. ſeverall times by the ſeverall Kings
+of this Realme, and yet (moſt uniuſtly) the vertue and priveledges thereof have beene for this long time concealed from the people, and the true uſe and power thereof perverted, by the indirect practi<g ref="char:EOLhyphen"/>ſes
+of coveteous mercenary Lawyers (the inſtruments of contention and oppreſſion) who prefer their owne unjuſt gaine and the advancement of their kingdom of contention (and the flouriſhing
+ſtate of Iaylors) fair before the iuſt rights and undeniable priveledges and liberty of the Subiect, which liberty in it ſelfe tendeth to the honour of God, the advancement of true piety the eſtabliſh<g ref="char:EOLhyphen"/>ment
+of Love, Unity and peace among the people of this land, as alſo the tranquillity of this Kingdome, whereas the advancement of their Kingdome of contention and Houſes of iniquity, tendeth
+only to the diſhonour of God, and the ſuppreſſing of true piety, as alſo to the breach of the bond of true chriſtian love, Vnity and Peace amongſt all men, and to the univerſall ruine of this King<g ref="char:EOLhyphen"/>dome,
+ſutable to the words of late uttered by an eminent Lawyer, who ſaid that it were better that all the Priſoners periſhed, then that the flouriſhing ſtate of the Law ſhould decline, this ſaying be<g ref="char:EOLhyphen"/>ing
+like the words of thoſe <hi>Epheſins,</hi> who reviled <hi>Paul</hi> the bleſſed Meſſenger of Peace and Mercy, and cryed up ſtill <hi>Dyana</hi> the Goddes of the <hi>Epheſians</hi> ſaying, <hi>Great is Dyana the Goddes of the
+Epheſians,</hi> and all this proceeding from the Divell that grand enemie to all true Chriſtian Love, Vnity, and Peace. <hi>And thus the wicked walke on every ſide, when the vilest men are exalted, they
+are corrupt they have done abominable workes, they ſpeake peaceably to their neighbours, when miſchiefe is in their hearts, for they regard not the workes of the Lord, (Even true Juſtice, Judge<g ref="char:EOLhyphen"/>ment,
+and mercy) but in their hearts they preferr. That the abominable gaine of Injuſtice and tyrannie, and love to poſſeſſe the riches of Oppresſion, Fraude and Deceit, dispiſing the Poore
+and oppresſing them, and drawing them before the Judgement Seate, to their utter ruine and deprivation of their Eſtates and Libertyes.</hi>
+            </p>
+            <p>That your poore afflicted brethren, have often ſince the beginning of this Parliament, addreſſed themſelves by their ſeverall humble Petitions &amp; Remonſtrances unto the honourable court of Par<g ref="char:EOLhyphen"/>liament
+for reliefe againſt Iniuſtice, Tyranie &amp; oppreſſion inflicted on them by Lawyers &amp; ſaylors, and forre releafe of their perſons from this ſlaverie of impriſonment, moſt uniuſtly long ſince faſtned
+upon them, and the poſterity of this whole Nation, by the moſt ſubtle and indirect practices of brybing Iudges, coveteous Lawyers, ſeditious Atturnies, Oppreſſing Iaylors, and their potent ad<g ref="char:EOLhyphen"/>herents,
+but by what uniuſt and impyous hand we know not, our ſeverall Petitions and Remonſtrances have beene hetherto extreamely ſlighted and obſtructed, and we thereby ſtill expoſed to all in<g ref="char:EOLhyphen"/>iuſtice,
+tyrannie, and oppreſſion, and I miſerable Languiſhment in Gaole, where the Iaylors unlimitted power and tyrannie tranſcends all Regall power, being (in his owne cauſe) both Plaintife
+and Iudge, and alſo Executioner of his owne cruell will upon poore Chriſtians committed to his cuſtodie, and who are alſo conceived to be ſupported and countenanced therein by ſome eminent
+perſons, alied (unto ſome of them about London)</p>
+            <p>The which impyous reſtraint of our perſons in Gaole, tendeth to none other end then to the inrichment of Lawyers, Atturnies, Soliſſitors and Iaylors, and to the utter ruine of thouſands of us
+your oppreſſed brethren, and of our wives and children, and where alſo (through the cruelty of Iaylors and their bloudy inſtruments) divers honeſt and godly men have ſuffered untimely ends and
+moſt cruell deaths, whoſe blood (doubtleſſe) cryes for vengeance at the hand of God.</p>
+            <p>That we your oppreſſed Brethren ſtill hungring and thirſting after our juſt and precious Liberty, and ſeeing no fruits of our former ſeverall Petitions and Remonſtrances, did in <hi>October</hi> 1644.
+addreſſ ourſelves by our humble <hi>APPEALE</hi> unto the Reverend Synod of Divines, and thereby humbly craving their favorable furtherance of our Releaſement from this our Inſlayed thraldom.
+From whom alſo we have hetherto received none other Cordiall (for our comfort and hope of Liberty) then a cold comfortleſſe Meſſe of Broth, ſeaſoned only with a few unſavorie Lentalls, whereby
+we are ſtill expoſed to the many and unexpreſſable Cruelties of Barbarous and extorting Iaylors, and their hungrie blood ſucking Subſtitutes.</p>
+            <p>The Premiſes juſtifie and piouſly weighed (by all the Commonalty of this land) and for that this ſlaverie of Impriſonment of men for Debt, (moſt unjuſtlie faſtned upon us and all the Freeborne
+people of this Land) tendeth to none other end, then to the utter ruine of us and all our poſterities, in their Eſtates, Credites, Callings and precious Liberties, and only to the Iurichment of Law<g ref="char:EOLhyphen"/>yers,
+Atturmes, Soliſſitors, Clarkes and Iaylors, and to the advancement of moſt wicked and ungodly Contention, Injuſtice, Tyrannie, and Oppreſſion, for which the wrath of God is now
+come down upon us, under the heavie burthen whereof the whole Kingdoms at preſent groneth, and by reaſon whereof Blood toucheth Blood.</p>
+            <p>Your poore oppreſſed and afflicted Brethren (<hi>And Priſoners for Debt</hi>) doe therefore appeale unto you, and moſt humbly beſeech you in the bowels of compaſſion (and for his ſake that hath ſo
+derely bought us) to take theſe our miſerable unjuſt ſufferings (and the ſlaverie faſtned on you and your poſterities) into your ſerious conſideration, that ſo by a true and ſpeedy courſe of Iuſtice (with<g ref="char:EOLhyphen"/>out
+reſpect of perſon this <hi>Egyptian</hi> ſlaverie and heavie Yoake of Impriſonment for debt, may be b<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>. That ſo thereby both you and wee, and all our poſterities in generall, may be freed and
+cleerly acquitted from this bondage of impriſonment, tyrannie and oppreſſion (for all times and ages to come) according to the true contents and meaning of the great and free Charter of Eng<g ref="char:EOLhyphen"/>land,
+being the unalterable and fundamentall law of this Kingdome, (for the liberty of the Subiect,) purchaſed by the blood of many thouſands of our Anceſtors.</p>
+            <p>And that it may be ordered and eſtabliſhed, That ſuch Priſoners at preſent, as have Eſtates, and make the Priſon their Sanctuary (to the defrauding of their Creditors) may by ſome juſt and im<g ref="char:EOLhyphen"/>partiall
+courſe, inforced (out of the two third parts of their eſtates either in Lands or Goods) to give preſent ſatisfaction to their Creditors, and the other third part of the ſaid Debtors Eſtate to bee
+reſerved unto the Debtor, for and towards the future ſubſiſtance of him, his Wife and Famelie, and the Education of his children, and their perſons being freed from Impriſonment, may then be take
+themſelves to their former Endeavors and Callings.</p>
+            <p>And that ſuch poore Priſoners as have beene many yeares ſince (by their Creditors) berefit of all their eſtates, credites, callings and liberties, by the helpe of that moſt cruell and abominable
+Statute of Bancrout, and are thereby become the moſt miſerable Spectacle of Povertie (through Tyrannie and Oppreſſion) and thier wives and children brought to the ſtate of beggerie. That theſe
+may be forthwith acquitted out of Gaole (Maugre the cruelty of Iaylors, their bloody Subſtitutes and potent Adherents) not ſuffering them to periſh in Gaole meerly forwant of paying the Iaylor
+his unjuſt and unlimitted extorting Fees, as many ſcore of poore Chriſtians have done, within the Priſon of Kings Bench alone.</p>
+            <p>Conſidering alſo that 10. 20. or 30. yeares impriſonment of the body, diſcounteth not one penny of debt to the Creditor, but only inableth the Iaylor and his helliſh Subſtitutes (like ſo many
+Vipers) to ſucke the vitall blood of the poore Priſoners. In which particular, England may ſend a defyance to all <hi>Europe, Aſia, Africa</hi> and <hi>America,</hi> to paralell her cruelty inflicted on her brethren
+and fellow members of the ſame common-wealth.</p>
+            <p>
+               <pb facs="tcp:162580:1" rendition="simple:additions"/>
+That there may be a Certaine number of honeſtable Godly men, in every Citie and Town corporate apointed (as it is in <hi>Germany</hi> and many other countryes) for the weekely viſitation of the
+ſeverall Priſons, to know the juſt cauſe of mens impriſonment for debt, and to inquire upon oath the preſent abilitie of the priſoner, that ſo thereby the cruell Creditor, the contentious Lawyer.
+Atturnie and Soliſſitor, and the oppreſſing Iaylor, may be prevented from loding of falſe and fained Actions upon the poore Priſoners, who through their extreame povertie are not able to ſtop the
+violent current of this their tyrannie and oppreſſion. Requiring alſo of the poore Priſoners no leſſe then 11. Groates for withdrawing of every Action, beſides three halfe pence in the pound for acti<g ref="char:EOLhyphen"/>on
+money, and 3. pence in the pound for Execution money, and beſides 28. s. 4. d. by them demanded as a Fee upon the diſcharge of every Priſoner out of the common Gaole, whereas in truth
+there is (juſtlie according to the Statute of <hi>Henry</hi> the 6.) But 4. d due to the Iaylor upon diſcharge of the Priſoner. Alſo beſides the 10. s. 6. d. by them extorted from the Priſoner for every dayes
+libertie by Wrir, and 7. 9. 6. d by rule on the maſter ſide, and 3. s. a day of every Priſoner on the Common ſide, And beſides their exceſſive Chamber rent of 5. s. 8. s. and 10. s. 2 weeke extorted
+from every Priſoner on the Maſter ſide, &amp; in the Rules, together with 20 other ſeverall unjuſt extorting Fees exacted from the poore Priſoners by theſe Iaylors and their helliſh Subſtitutes. And all this
+tendring to the utter ruine of the poore Priſoner his Wife and Children, The defrauding of the Creditors, and to the only Inrichment of Iaylors and their adherents, whoſe unlimitted power reach<g ref="char:EOLhyphen"/>eth
+far beyond the lawfull power of Soveraignty and exceeds the bounds of Iuſtice, Reaſon and Conſcience.</p>
+            <p>And further that if any Priſoner be found to be a defrauder of his Creditors, and upon his examination happen wittingly to perjure himſelfe, by concealing his Eſtate, then the ſaid Commiſſioners
+to have power to inſtict upon ſuch perſons convicted Corporall puniſhment, and then alſo the ſaid perjured parties Eſtate, to be diſpoſed of by them to his Creditors, and if a Surpluge there of remaine
+(after the Creditors ſatisfaction) then the ſame to be by the ſaid Commiſſioners diſpoſed of to the poore.</p>
+            <p>The reſervation of the third part of the Debtors Eſtate, will prove an incouragement to all, for the diſcloſing of the whole Eſtate to the Commiſſioners and the Corporall puniſhment of the Frandu<g ref="char:EOLhyphen"/>lent
+Debtor, together with the deprivation of whole Eſtate, will be a terrour to all evill minded men, (a courſe uſuall in many other Countries) and will doubtleſſe prove a thing juſt and pleaſing
+both to God and man, and beneficiall to the Creditors.</p>
+            <p>That the murthers and inhumaine Cruelties by Iaylors frequently inflicted on Priſoners may be juſtly and truly ſearched out. And that all theſe accurſed Achans in this our <hi>Iſrael</hi> may receive their
+due reward of ſevere juſtice, whereby God may be glorified, and the Land acquitted from the guilt of innocent blood, <hi>For Iſrael could not have peace, ſo long as the Gibionites</hi> (ſlain, by Saul)
+<hi>were unrevenged.</hi>
+            </p>
+            <p>That Iaylors may be forth with reſtrayned, and by the higher powers, limitted and bounded in their Fees and Demands now moſt unjuſtlie extorted from Priſoners. In eſpeciall Sir <hi>John Lenthall,</hi>
+who out withſtanding the terrour of this Parliament (being ſupported by ſome Members of the ſame as is conceived) hath of late inflicted new oppreſſions on the Priſoners, and alſo for the advance<g ref="char:EOLhyphen"/>ment
+of the rent of his ſeller, &amp; kitchen, inforceth the Priſoners to buy all their meat &amp; drink in the ſaid priſon at a far higher price then that which they uſually before had it for (abroad at the chandlers.</p>
+            <p>And that the palpable Malignancie of ſome eminent Iaylors may be alſo ſuppreſſed, and reſtrayned in their extraordinary favour, liberty and protection by them conferred upon <hi>Papiſts, Ieſuites,
+Prieſts, Delinquents</hi> and <hi>Malignants,</hi> and that their rigor and extreame crueltie inflicted on all ſuch as ſtand well affected to Religion the Parliament and liberty may be reſtrained, that ſo God may
+receive the glorie, your poore <hi>Vnjuſt inſlaved Brethren</hi> their liberties, and all your and our poſterities in generall the hapineſſe and comfort to all ſucceding generations. <hi>For behold,</hi> now they diſ<g ref="char:EOLhyphen"/>piſe
+and tread upon the poore, they afflict the needy, yea they eate up Gods people as they eate bread. For we are as a people inſnared in holes, buried alive in priſon-houſes, robbed of our Eſtates, Cre<g ref="char:EOLhyphen"/>dites,
+Callings and liberty, and yet none ſaith reſtore unto them their right (ever their Liberty.)</p>
+            <p>Wherefore we beſeech you by the Mercies of God, and in the bowels of compaſſion, to remember us that are in bonds (even as bound with us) and all of us that ſuffer adverſity and tribulation, as
+being your ſelves alſo in the body (and by the like oppreſſions made ſubject to the ſame afflictions.) For behold we are all your brethren, Fleſh of your fleſh, and bone of your bone, Oh, therefore
+ſuffer us not to be any longer tormented, oppreſſed, diſtreſſed, inſlaved and utterly ruined and deſtroyed in Priſon-houſes, being all of them none other but the proper places of injuſtice, tyrannie and
+oppreſſion, where they that rule over us make us to howle, and inforce us thereby to wiſh for the conſumation of our dayes out of this vaile of miſerie, and places of tyrannie and oppreſſion:</p>
+            <p>For thus ſaith the Lord, What doe I require of thee Oh man, but to doe juſtice, to love mercie, and to walke humbly with our God, to relieve the Widdow, the Fatherleſſe, and the Stranger, and to lee
+the oppreſſed (and long impriſoned) goe free. Then, (yet not tell then) ſhall your light breake forth as the Sun, and then (yet not tell then) will the Lord your God have mercie upon you and divert
+theſe his preſent Iudgements from you, and heale the Land, For the Lord our God, is a God of juſtice, judgement and mercy. Therefore be you mercifull, as your heavenly father is mercifull: obſer<g ref="char:EOLhyphen"/>ving
+and perſerving in this ſacred rule (truly and conſtantly (even, <hi>To doe as you would be done unto.</hi>
+            </p>
+            <closer>
+               <date>November 1645.</date>
+            </closer>
+         </div>
+         <div type="petition">
+            <head>TO THE RIGHT HONORABLE THE LORDS AND COMMONS ASSEMBLED IN PARLIAMENT. The humble Petition of all the poore Oppreſſed and Diſtreſſed Priſoners within the priſon of Kings-Bench, and all other Priſons for Debt, within the Kingdome of England, and principallitie of
+Wales, Conceived to be about 8000 in number at the leaſt.</head>
+            <p>
+               <hi>Moſt humbly Complaining, Shewes.</hi>
+            </p>
+            <p>THat your poore oppreſſed Petitioners, having ſundrie times (ever ſince the beginning of this Parliament) addreſſed themſelves by their ſeverall humble petitions, unto this hono<g ref="char:EOLhyphen"/>rable
+Aſſembly, for the obtaining of their juſt and undoubted Rights and Priveledges, (being the liberty and freedome of their perſons from the ſlaverie of Impriſonment faſtned
+on their perſons by the illegall practiſes and unexpreſſable abuſe of <hi>Magna Charta,</hi> in all which hetherto your Petitioners have reaped no redreſſe nor releaſe.</p>
+            <p>That in the 3. yeare of his Majeſties raigne, the body of this Common-wealth being ſenſible of many ſufferings, occaſioned by the breach of <hi>Magna Charta</hi> (it being the contract and
+perpetuall law betweene the King and his Subjects) the Lords and Commons then aſſembled, petitioned His Majeſty for confirmation on of the ſame (which implyed their conſents) to
+which His Majeſtic then aſcented and ſince confirmed (which implies an Act) and if to an Act and a legall confirmation, then we humblie conceive and tha<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> moſt true, that it nullifies
+all latter Statutes that are made in contradiction thereof, tending to the betraying of the Liberty of the Subject, and the inſlaving of their perſons and the perſons of all their poſterities,
+to all ſucceeding Generations (which contradiction, wehumblie conceive may ſeeme too great in the wiſedome of this honourable Aſſemblie) it having beene maintained publiquely
+therein, that the Subjects muſt be eaſed in their perſons (being a freeborne people and no <hi>Villians</hi> nor <hi>Slaves</hi>) from all illegall exceſſe, and impriſonment of their perſons, againſt <hi>Mag<g ref="char:EOLhyphen"/>na
+Charta,</hi> which is our greateſt liberty &amp; the only leading Mother-law of this Kingdome, purchaſed by the blood of many thouſands of our Anceſtors.</p>
+            <p>The premiſes juſtlie and piouſly weighed, and for that your Petitioners have beene of late (by many religious and well affected perſons in this Citie and Kingdome) Incouraged once
+more to adreſſe themſelves unto this honourable Aſſemblie, by this our humble Petition, for releaſe from this their unjuſt tyrannicall reſtraint, conſidering alſo and duly weighing, that
+10. 20. or 30. yeares impriſonment of the body, doth not diſcount one penie of debt to the Creditor. Your Petitioners therefore humbly pray, that by the wiſedom, Iuſtice, and piety
+of this honorable Aſſembly, their perſons may be reſtored to their antient legall and juſt liberties, as at the firſt, and the free current of juſtice opened, that ſo your Petitioners (notwith<g ref="char:EOLhyphen"/>ſtanding
+their extreame povertie and want of potent friends) may be inabled to partake thereof freely and not inforced to buy it for the price of Iniquity as formerly, and their Eſtates, if
+any remaining; may only be made liable, in the two third parts thereof, to ſatisfie their debts, with ſome charitable and due conſideration firſt had to the future ſubſiſtance of themſelves
+their wives and familie, and the education of their children, A think in it ſelfe agreeable to the law of God, the rule of Charity and the lawes of many other Nations, that ſo both they
+and all their poſterities to ſucceeding Generation, being cleerly acquitted from this <hi>Egyptian</hi> bondage may have iuſt cauſe to bleſſe the memorie of this honorable Aſſemblie, and Eter<g ref="char:EOLhyphen"/>niſe
+their names, as of the reſtores of our antient Rights and liberties,</p>
+            <p>This Petition was before the 6. of <hi>October</hi> 1645. ſubſcribed by almoſt a hundred of us the priſoners of Kings-Bench and intended to have been preſented from us to the Houſe of
+<hi>Peers</hi> within 2. dayes after, but it comming to the knowledge of Sir <hi>John Lenthall</hi> &amp; his cruel Deputy <hi>Thomas Dutſon,</hi> they then forthwith procured Iuſtice <hi>Whittaker</hi> to ſend a Meſſen<g ref="char:EOLhyphen"/>ger
+with his Warrant to the priſon of Kings Bench thereby requiring <hi>James Freſe,</hi> to deliver that and all his other writings, upon whoſe refuſall, they were then by the ſaid Meſſenger
+aſſiſted by <hi>Thomas Durſon</hi> and 4. or 5. of Sir <hi>John Lenthalls</hi> ſervants, forcibly taken from the ſaid <hi>Iames Freſe</hi> and are all of them detained from him untill this preſent, this being the
+third time that the ſaid <hi>Iames Freſe</hi> hath beene forcibly deprived of his writings by the ſaid Sir <hi>Iohn Lenthall</hi> his Deputy and ſervants and by their procurement now at the laſt, con<g ref="char:EOLhyphen"/>trary
+to all iuſtice equity and right, and ſtatly againſt the priveledge, liberty and ſafety of the Subiect, and in further perſuance in his cruelty againſt all well affected to the Parliament,
+he the ſaid Sir <hi>Iohn Lenthall</hi> hath alſo ſince cauſed one Mr. <hi>Robert Cratchrod</hi> (a priſoner for Debt) to be violently dragged forth out of the common Gaole of Kings Bench and thruſt in<g ref="char:EOLhyphen"/>to
+the Common Dungion in the White Lyon, (ſome times paſt the County Gaole, but now only a private houſe) thereby bereaving the poore Gentleman of his Cain and Lodging, as
+<gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>(a thing by him uſually practiſed) and all this is done by him, only becauſe the G<gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
